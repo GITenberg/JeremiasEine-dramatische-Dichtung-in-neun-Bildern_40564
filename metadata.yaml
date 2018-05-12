@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26291
     wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40564#JeremiasEine-dramatische-Dichtung-in-neun-Bildern
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-08-22'
 gutenberg_type: Text
